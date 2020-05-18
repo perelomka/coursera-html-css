@@ -1,0 +1,46 @@
+body {
+    background-color: #9acfea;
+}
+
+/*Header*/
+#header-nav {
+    background-color: #145f91;
+    border-radius: 0;
+    border: 0;
+}
+
+.container {
+    margin-left: 25px;
+}
+
+.navbar-brand {
+    padding: 15px 0;
+
+}
+
+.navbar-brand p {
+    color: white;
+    font-size: 1.5em;
+    text-shadow: 1px 1px 1px #28a4c9;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    color: white;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid white;
+}
